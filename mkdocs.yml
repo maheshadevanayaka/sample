@@ -1,0 +1,8 @@
+site_name: TicketBooking
+site_description: This is the official TicketBooking documentation.
+
+nav:
+  - Ticket Booking: index.md
+
+plugins:
+  - techdocs-core

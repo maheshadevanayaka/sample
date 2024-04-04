@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Ticket-booking-rum
+  description: |
+    A ticket booking service
+  annotations:
+    datadoghq.com/site: us3.datadoghq.com
+spec:
+  type: service
+  system: TheaterBooking
+  lifecycle: production
+  owner: user:guest
