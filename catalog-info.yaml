@@ -6,8 +6,7 @@ metadata:
   description: Microservice for TicketBooking
   tags:
     - java
-    - springboot
-    - test pr
+    - springboot app
   annotations:
     flowsource/lob: flowsource-demo
     flowsource/is-critical: "true"
