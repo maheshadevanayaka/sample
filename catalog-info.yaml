@@ -16,13 +16,13 @@ metadata:
     flowsource/jira-project-key: UPSHIFT
     flowsource/sonarqube-project-key: ticket-booking-unified-app
     flowsource/fis-aws-region: ap-southeast-1
-    flowsource/fis-application-id: TicketBooking
-    flowsource/checkmarx-project-id: TicketBooking
-    flowsource/prismacloud-scan-repo: TicketBooking
+    flowsource/fis-application-id: sample
+    flowsource/checkmarx-project-id: sample
+    flowsource/prismacloud-scan-repo: sample
     flowsource/prismacloud-scan-branch: workflow-integration
-    flowsource/github-project-slug: 'TheCognizantFoundry/TicketBooking'
-    flowsource/github-repo-owner: TheCognizantFoundry
-    flowsource/github-repo-name: TicketBooking
+    flowsource/github-project-slug: 'sample'
+    flowsource/github-repo-owner: Mahesh
+    flowsource/github-repo-name: sample
     #AWS Resilience Hub Annotations
     flowsource/aws-resiliencehub-appname: Theatre-Booking
     flowsource/aws-resiliencehub-region: ap-southeast-1
