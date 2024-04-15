@@ -21,7 +21,7 @@ metadata:
     flowsource/prismacloud-scan-repo: sample
     flowsource/prismacloud-scan-branch: workflow-integration
     flowsource/github-project-slug: 'sample'
-    flowsource/github-repo-owner: Mahesh
+    flowsource/github-repo-owner: maheshadevanayaka
     flowsource/github-repo-name: sample
     #AWS Resilience Hub Annotations
     flowsource/aws-resiliencehub-appname: Theatre-Booking
