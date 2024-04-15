@@ -7,6 +7,7 @@ metadata:
   tags:
     - java
     - springboot
+    - test pr
   annotations:
     flowsource/lob: flowsource-demo
     flowsource/is-critical: "true"
