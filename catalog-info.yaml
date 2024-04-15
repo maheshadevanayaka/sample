@@ -50,7 +50,7 @@ metadata:
     cognizant/github-repo-name: TicketBooking
     
   links:
-    - url: https://github.com/TheCognizantFoundry/TicketBooking
+    - url: https://github.com/maheshadevanayaka/sample
       title: Source Code
       icon: github
     - url: http://a8f2ef01bc01d4eb7bab4d3c2981cc52-2044124417.ap-southeast-1.elb.amazonaws.com:9000/showinfo
