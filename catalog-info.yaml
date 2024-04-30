@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: TicketBooking
   appid: TicketBooking
-  description: Microservice for TicketBooking
+  description: Microservice for TicketBooking App
   tags:
     - java
     - springboot
