@@ -1,0 +1,18 @@
+name: Basic workflow demo
+
+on:
+  push:
+    branches:
+      - workflow-integration
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - run: echo "This is checkmax demo workflow ."
+#docket build and deploy    
+  Checkmarx-Scan:
+    uses: ./.github/workflows/checkmarx-scan.yml
+    secrets: inherit
+
