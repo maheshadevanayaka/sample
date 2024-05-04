@@ -27,7 +27,7 @@ metadata:
     flowsource/aws-resiliencehub-appname: Theatre-Booking
     flowsource/aws-resiliencehub-region: ap-southeast-1
 
-    flowsource/github-workflows: Basic workflow demo, TicketBooking-Pipeline
+    flowsource/github-workflows: Basic workflow demo
     #flowsource/jenkins-pipelines: ticket-booking-application
 
     # backstage.io/techdocs-ref: dir:.
